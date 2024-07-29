@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<raModuleDescription>
+  <config id="config.board.rza3ul_feather" path="fsp_cfg/bsp/board_cfg.h" version="0">
+    <content>#include "../../../rza/board/rza3ul_feather/board.h"</content>
+  </config>
+  <board config="config.board.rza3ul_feather" device="R9A07G063U01GBG" display="RZA3UL_Feather" id="board.rza3ul_feather" version="0"/>
+</raModuleDescription>

@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+options/suppresswarningspaths=rza/aws,rza/freertos,rza/fsp/src/rm_freertos_port

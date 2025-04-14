@@ -35,7 +35,7 @@ You will also need to install the J-Link Software pack from <a href="https://www
 
 #### Running your first project
 
-Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/renesas-RZA3UL-feather/tree/main/firmware/Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
+Once you have all the tools installed, follow <a href="https://github.com/Zalmotek/renesas-RZA3UL-feather/tree/main/firmware/Blink/RZA3UL_Feather_Blink">this</a> guide to learn how to import, build, and run a project in the e² studio IDE. 
 
 ---
 Thank you for choosing the Renesas RZA3UL Feather SoM! 

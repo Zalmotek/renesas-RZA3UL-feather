@@ -41,25 +41,6 @@ The main application:
 
 1. Clone this repository
 2. Open the project in e2 studio
-   In e² studio go to File -> Import..., choose "Existing Projects into Workspace" and browse to the project you’ve just downloaded, then click Finish:
-   
-<p align="center">
-  <img src="1.png" height="500">
-  <img src="2.png" height="500">
-</p>
-
-After importing your project, open the configuration.xml file to access the board configurator. Let's review some key settings that will be relevant for all your future RA6M1 Feather SoM projects. First of all, in the BSP tab, your project should have the Custom User Board and the R7FA6M1AD3CFM device selected.
-
-<p align="center">
-  <img src="3.png" height="500">
-</p>
-
-Next, in the Pins tab, you may need to adjust this for future projects, based on what peripherals you want to enable. You can also set the pins as inputs or outputs and adjust their current drive capacity. For example, the LED is connected to P102 which is set to Output Mode. You can find its configuration in the Pin Selection menu ->Ports -> P3 -> P307.
-
-<p align="center">
-  <img src="4.png" height="500">
-</p>
-
 3. Connect your Zalmotek RA0E1 Feather board via USB
 4. Build the project
 5. Flash the firmware to the board

@@ -6,7 +6,7 @@ Here you'll find all the resources you need to get up and running quickly.
 
 ## 🪶 What is the RZA3UL Feather SoM?
 
-The <a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-mpus/rza3ul-arm-cortex-a55-based-high-performance-mpu">Renesas RZ/A3UL</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-A55 CPU core with a maximum operating frequency of 1 GHz. Integrating the 512Mbit OctaFlash and 512Mbit OctaRAM we conveniently packaged them in a Feather format.
+The <a href="https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus/rza3ul-powerful-1ghz-64-bit-mpus-rtos-support-enables-high-definition-hmi-and-quick-startup">Renesas RZ/A3UL</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-A55 CPU core with a maximum operating frequency of 1 GHz. Integrating the 512Mbit OctaFlash and 512Mbit OctaRAM we conveniently packaged them in a Feather format.
 
 Besides the processor, the Feather SoM contains the classic Feather features: digital GPIOs, I2C and SPI communication pins, UART pins, a LiPo battery power plug, and the USB programming port. The SoM also features a USB Type-C for powering the board and for USB debug upload.
 

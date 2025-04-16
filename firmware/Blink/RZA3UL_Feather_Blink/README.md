@@ -35,6 +35,10 @@ The main application:
 
 ## Getting Started
 
+### !!!To start using the RZA3UL FEATHER, it is necessary to integrate the pack into e2studio. 
+
+To do this, in e2 studio, from the Help menu, choose About E2studio -> Installation Details, from there choose Support Folders > e2 studio support area -> Internal, and add our files to each representative folder.
+
 ### Setup
 
 1. Clone this repository

@@ -15,6 +15,30 @@ Besides the processor, the Feather SoM contains the classic Feather features: di
   <img src="images/Feather-RZA3UL-BD.png" height="500">
 </p>
 
+## Feather Pinout
+
+The pinout for each port is as follows:
+
+
+| Pin | Function | Notes | Pin | Function | Notes |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 1 | RESET |  |  |  |  |
+| 2 | VCC (3V3) |  |  |  |  |
+| 3 | AREF |  |  |  |  |
+| 4 | GND |  |  |  |  |
+| 5 | A0 | ADC_CH0 | 17 | VBAT |  |
+| 6 | A1 | ADC_CH1 | 18 | EN |  |
+| 7 | D22 | BSP_IO_PORT_10_PIN_01 | 19 | BUS |  |
+| 8 | A23 | BSP_IO_PORT_10_PIN_02 | 20 | D13 | BSP_IO_PORT_16_PIN_00 |
+| 9 | A24 | BSP_IO_PORT_10_PIN_03 | 21 | D12 | BSP_IO_PORT_16_PIN_01 |
+| 10 | A25 | BSP_IO_PORT_10_PIN_04 | 22 | D11 | BSP_IO_PORT_17_PIN_03 |
+| 11 | SCK | BSP_IO_PORT_17_PIN_00  | 23 | D10 | BSP_IO_PORT_13_PIN_02 |
+| 12 | MOSI | BSP_IO_PORT_17_PIN_01 | 24 | D9 | BSP_IO_PORT_14_PIN_00 |
+| 13 | MISO| BSP_IO_PORT_17_PIN_02 | 25 | D6 | BSP_IO_PORT_14_PIN_01 |
+| 14 | RX | BSP_IO_PORT_08_PIN_00 | 26 | D5 | BSP_IO_PORT_13_PIN_01 |
+| 15 | TX | BSP_IO_PORT_08_PIN_01 | 27 | SCL | RIIC1_SCL |
+| 16 | D14 | BSP_IO_PORT_13_PIN_00 | 28 | SDA | RIIC1_SDA |
+
 ## 🐣🏁 Quick Start Guide
 
 ### 🔌 Hardware Requirements

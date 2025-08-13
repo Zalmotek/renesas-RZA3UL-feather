@@ -28,9 +28,9 @@ The pinout for each port is as follows:
 | 5   | A0 | ADC_CH0 |
 | 6   | A1 | ADC_CH1 |
 | 7   | D22 | BSP_IO_PORT_10_PIN_01 |
-| 8   | A23 | BSP_IO_PORT_10_PIN_02 |
-| 9   | A24 | BSP_IO_PORT_10_PIN_03 |
-| 10  | A25 | BSP_IO_PORT_10_PIN_04 |
+| 8   | D23 | BSP_IO_PORT_10_PIN_02 |
+| 9   | D24 | BSP_IO_PORT_10_PIN_03 |
+| 10  | D25 | BSP_IO_PORT_10_PIN_04 |
 | 11  | SCK | BSP_IO_PORT_17_PIN_00 |
 | 12  | MOSI | BSP_IO_PORT_17_PIN_01 |
 | 13  | MISO | BSP_IO_PORT_17_PIN_02 |
